@@ -1,5 +1,6 @@
 <h1 align="center">Hi ☺️, I'm Anette</h1>
-![Profile Image](https://github.com/anettevolkova/mySecrets/blob/main/Anette%20Volkova%20(1).png)
+
+<img src="./Anette%20Volkova%20(1).png" alt="Image Description" style="width:1000px; border:none;" />
 
 <h3 align="center">a newgrad who is passionate about data science and learning more in the CS space! I really enjoy working in the natural languauge procession area and learning more about various LLMs. I work best in R and python, though I always like the challenge of working in a new language. My future goals for myself are becoming confident in myself within the CS space and encouraging others to learn and grow in the spcae as well! </h3>
 
