@@ -4,7 +4,7 @@
   <img src="./NetteV.png" alt="Image Description" style="width: 800px; border: none;" />
 </div>
 
-<h3 align="center">a newgrad who is passionate about data science and learning more in the CS space! I really enjoy working in the natural languauge procession area and learning more about various LLMs. I work best in R and python, though I always like the challenge of working in a new language. My future goals for myself are becoming confident in myself within the CS space and encouraging others to learn and grow in the spcae as well! </h3> <br><br>
+<h3 align="center">a newgrad who is passionate about data science and learning more in the CS space! I really enjoy working in the natural languauge procession area and learning more about various LLMs. I work best in R and python, though I always like the challenge of working in a new language. My future goals for myself are becoming confident in myself within the CS space and encouraging others to learn and grow in the space as well! </h3> <br><br>
 
 
 <p>
